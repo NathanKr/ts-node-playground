@@ -1,5 +1,5 @@
 <h2>Motivation</h2>
-Solve the limitations of the regular node + typescript setup <a href='https://github.com/NathanKr/node-typescript-setup-tsconfig'>here</a>. Thus we have good setup for node using typescript nd adding express is trivial
+Solve the limitations of the regular node + typescript setup <a href='https://github.com/NathanKr/node-typescript-setup-tsconfig'>here</a>. Thus we have good setup for node using typescript via ts-node (adding express is trivial)
 
 
 <h2>Installation</h2>
